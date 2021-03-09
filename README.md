@@ -1,4 +1,5 @@
 # vue-markov
+Proyecto web para solucionar ejercicios de probabilidad según el modelo de cadenas de Markov.
 
 ## Project setup
 ```
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Author
+
+María Mora <mariamora2807@gmail.com>
